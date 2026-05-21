@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Beautiful Landing Page Template created in Lovable
 
 ## Project info
 
