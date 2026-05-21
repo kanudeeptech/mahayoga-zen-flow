@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/c582dc06-4a7c-43f4-b468-1a22d188ff19
+**URL**: https://mahayoga-zen-flow.lovable.app
 
 ## How can I edit this code?
 
